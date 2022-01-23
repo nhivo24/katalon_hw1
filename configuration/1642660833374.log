@@ -1,0 +1,905 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 55090
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAuthCache).
+log4j:WARN Please initialize the log4j system properly.
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+End checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername admin
+End appending additional signatures 52bcaeb8-bdc1-46c6-a2a2-b0a2692330ed__admin
+End getting machine ID on Windows 6a711c0a5bb8ab99667c9df86b21c419
+Activating credentials...
+Fetching organizations...
+Retrievinng token using credentials...
+Fetching organizations using token...
+1 organization(s) fetched
+Start check license task
+All launchers terminated
+
+Thu Jan 20 13:43:18 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+All launchers terminated
+
+Thu Jan 20 13:43:32 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS missing message: BTN_UPLOAD in: com.kms.katalon.composer.integration.analytics.constants.composerIntegrationAnalyticsMessages
+Latest plugins responses: []
+Katalon version: 8.2.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.2.5&appType=KSE&licenseType=FREE
+Latest plugins responses: []
+Katalon version: 8.2.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.2.5&appType=KSE&licenseType=FREE
+
+Thu Jan 20 14:11:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 14:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 15:11:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 15:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 16:11:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 16:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 17:11:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 17:25:09 ICT 2022
+java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.kms.katalon.application.utils.EntityTrackingHelper$1.run(EntityTrackingHelper.java:23)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Thu Jan 20 17:25:13 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Thu Jan 20 17:35:07 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 17:35:08 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+
+Thu Jan 20 17:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+Jan 20, 2022 5:41:35 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 20, 2022 5:41:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 20, 2022 5:43:04 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 20, 2022 5:43:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Thu Jan 20 17:55:13 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 20, 2022 6:01:43 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 20, 2022 6:01:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Thu Jan 20 18:06:37 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 18:06:37 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 20, 2022 6:06:49 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 20, 2022 6:06:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Thu Jan 20 18:11:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 18:13:15 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 18:13:16 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 20, 2022 6:18:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 20, 2022 6:18:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+
+Thu Jan 20 18:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 19:11:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 19:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 20:33:13 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 20:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 22:29:13 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 22:29:13 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 22:29:13 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Thu Jan 20 22:41:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:17:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 10:41:07 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 11:11:07 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:30:09 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 2:30:36 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 2:30:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 21, 2022 2:31:19 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 2:31:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri Jan 21 14:49:52 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:49:53 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:50:13 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:50:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 2:50:47 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 2:50:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 21, 2022 2:51:46 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 2:51:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 21, 2022 2:52:03 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 2:52:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 21, 2022 2:53:05 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 2:53:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 21, 2022 2:53:55 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 2:53:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 14:55:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:55:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:55:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:55:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:55:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:55:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 14:55:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Fri Jan 21 15:02:01 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:02:02 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 3:02:08 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 3:02:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 15:04:50 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:04:50 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:04:50 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 3:04:57 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 3:04:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 15:06:28 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:06:28 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:06:28 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:06:28 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 3:06:39 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 3:06:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 15:09:37 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:09:38 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:09:38 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:09:38 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:09:38 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 3:09:43 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 3:09:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 21, 2022 3:10:54 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 3:10:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 15:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri Jan 21 15:16:45 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:16:46 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:16:46 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:16:46 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:16:46 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:16:46 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 3:16:52 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 3:16:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 15:18:16 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:18:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:18:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:18:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:18:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:18:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 15:18:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 3:18:20 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 3:18:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 15:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 16:22:44 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 16:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:48:51 ICT 2022
+java.net.SocketException: Network is unreachable: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:284)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:698)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1593)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:352)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:302)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:136)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:60)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:55)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:39)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Jan 21 17:49:16 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:49:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:49:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:49:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:49:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:49:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:49:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 17:49:17 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 5:49:25 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 5:49:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 17:50:14 ICT 2022
+java.net.UnknownHostException: update.katalon.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:284)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1205)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:264)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:297)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:136)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:60)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:55)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:39)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Jan 21 17:50:16 ICT 2022
+java.net.UnknownHostException: update.katalon.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:284)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1205)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:264)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:297)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:136)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:60)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:55)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:39)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Jan 21, 2022 5:50:18 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+
+Fri Jan 21 17:50:18 ICT 2022
+java.net.UnknownHostException: update.katalon.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:284)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1205)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:264)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:297)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:136)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:60)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:55)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:39)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Jan 21, 2022 5:50:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 21, 2022 5:54:39 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 5:54:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+
+Fri Jan 21 17:59:11 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:14 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:39 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:40 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:40 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:40 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:40 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:40 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:40 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 18:05:40 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Jan 21, 2022 6:05:57 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 6:05:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+Fri Jan 21 18:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri Jan 21 18:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 19:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 19:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Fri Jan 21 20:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+
+Fri Jan 21 20:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 21:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Fri Jan 21 21:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Fri Jan 21 22:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+
+Sat Jan 22 00:22:24 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 00:22:24 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 00:22:24 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 00:22:24 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 00:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 01:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 01:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 02:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 02:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 03:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 03:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 04:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 04:41:00 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 05:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 05:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 06:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 06:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 07:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 07:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 08:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 08:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 09:10:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
+
+Sat Jan 22 09:40:59 ICT 2022
+Azure: Enterprise license for this feature is requested
+
